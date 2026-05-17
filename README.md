@@ -1,4 +1,4 @@
-# Portfolio
+# Personal Portfolio
 
 [Live Demo](https://heet-113.github.io/Personal-Portfolio/)
 
