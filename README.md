@@ -1,11 +1,3 @@
-# Personal Portfolio
-
-This is a personal portfolio website for Heet Rupapara. It presents a clean single-page layout with a hero section, an about section, featured projects, and contact links.
-
-## Live Demo
-
-Visit the deployed site here:
-
 [Live Demo](https://heet-113.github.io/Personal-Portfolio/)
 
 ## Features
